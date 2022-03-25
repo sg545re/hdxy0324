@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "V2",
+  "description": "V2",
   "keywords": [
-    "vmess or vles"
+    "V2"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/sg545re/hdxy0324",
+  "repository": "https://github.com/sg545re/hdxy0324",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
